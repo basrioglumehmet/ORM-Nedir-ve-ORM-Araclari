@@ -34,3 +34,15 @@
     - DB ve Kod arasında eş zamanlı bir model oluşturmaktadır
     - UML Kullanılarak veritabanı ve kod arası uyum sağlanır.
     - Model yönetimi ve güncellemesi zordur.
+
+# Entity Framework Core
+
+![alt text](0_l9LoKkUx1TtAES16.png)
+
+- Microsoft tarafından sunulmuş DataAccess teknolojisidir.
+- Yıllar içerisinde olgunlaşarak 6x ve sonrası core adı altında birleşmiştir.
+- Cross platform ve open source'dur.
+- Net Core uygulamalarında kullanılmak üzere tasarlandı ama Net framework 5.0+ versiyon uygulamalarda Entity Framework kullanılablir durumdadır.
+
+## Entity Framework Core Kullandığı Platformlar
+![alt text](ef-core.png)
